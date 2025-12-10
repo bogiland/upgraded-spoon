@@ -1,0 +1,4 @@
+echo "code 1" > file1.txt
+git add .
+git commit -m "Commit 1: add file1"
+git push
